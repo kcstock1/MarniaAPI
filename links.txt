@@ -1,0 +1,11 @@
+From Hedaoo, Samarendra to Everyone:  06:15 PM
+https://googleapis.dev/nodejs/datastore/latest/Query.html
+From Hedaoo, Samarendra to Everyone:  06:26 PM
+https://googleapis.dev/nodejs/datastore/latest/Datastore.html#runQuery
+
+
+From Hedaoo, Samarendra to Everyone:  06:15 PM
+https://googleapis.dev/nodejs/datastore/latest/Query.html
+From Hedaoo, Samarendra to Everyone:  06:26 PM
+https://googleapis.dev/nodejs/datastore/latest/Datastore.html#runQuery
+

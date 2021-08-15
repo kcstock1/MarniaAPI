@@ -1,0 +1,9 @@
+-Create a users entity
+-Create relationship between boat and user (owner)
+-Implement collection url (based on relationship to user)
+-Pagination of 5
+-make sure 3 properties for load and user
+-CRUS for all entities
+-protected user
+-Any request to an endpoint that will send back a response with a body must include 'application/json' in the Accept header. If a request doesn't have such a header, it should be rejected.
+-Your application should support at least the following status codes.200,201,204,401,403,405,406
